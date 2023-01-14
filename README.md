@@ -3,7 +3,7 @@ ___
 
 
 ## О сайте
-[Путешествие по России]https://reverseserj.github.io/russian-travel/
+[Путешествие по России](https://reverseserj.github.io/russian-travel/) 
 ___
 
 Сайт "Путешествие по России" позволит окунуться в чудесные и уникальные места природы России.
