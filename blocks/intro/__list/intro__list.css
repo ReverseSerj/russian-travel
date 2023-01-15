@@ -1,6 +1,5 @@
 .intro__list {
   width: 690px;
-  height: 90px;
   list-style-type: none;
   font-family: 'Inter';
   font-style: normal;
@@ -17,14 +16,12 @@
 @media screen and (min-width: 768px) and (max-width: 1023px) {
   .intro__list {
     padding-bottom: 88px;
-    padding-top: 33px;
   }
 }
 
 @media screen and (min-width: 1024px) {
   .intro__list {
     padding-bottom: 92px;
-    padding-top: 33px;
   }
 }
 
