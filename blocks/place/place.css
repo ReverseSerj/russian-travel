@@ -1,12 +1,12 @@
 .place {
-  padding: 0;
-  padding-bottom: 80px;
+  display: grid;
   grid-template-columns: minmax(min-content, 300px) minmax(320px, 1fr);
   grid-template-rows: 2fr;
   column-gap: 40px;
-  max-width: 984px;
   row-gap: 48px;
-  display: grid;
+  max-width: 984px;
+  padding: 0;
+  padding-bottom: 80px;
   margin: 0;
   color: white;
 }
