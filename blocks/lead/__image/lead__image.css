@@ -9,6 +9,7 @@
 @media screen and (max-width: 1024px) {
   .lead__image {
     max-width: 928px;
+    padding-top: 56px;
   }
 }
 

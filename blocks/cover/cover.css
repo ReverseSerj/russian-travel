@@ -1,4 +1,5 @@
 .cover {
+  display: flex;
   background-image: url(../../images/prom_vagon.jpg);
   background-size: cover;
   background-repeat: no-repeat;
